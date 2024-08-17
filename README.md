@@ -58,7 +58,7 @@ Step 2: To run the python script in which the linear velocity and radius are inp
 
 ### For manhattan distance
 
-    python3 manhattan_distance.py <x1> <y1> <x2> <y2>
+        python3 manhattan_distance.py <x1> <y1> <x2> <y2>
 
-    Eg. python3 manhattan_distance.py 1 2 2 3
-    # which means (1,2) as (x1,y1) and (2,3) as (x2,y2)
+        Eg. python3 manhattan_distance.py 1 2 2 3
+        # which means (1,2) as (x1,y1) and (2,3) as (x2,y2)
