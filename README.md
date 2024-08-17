@@ -28,8 +28,8 @@ Thanks in advance,
 *Junior Robotics Software Engineer*
 
 # Repo Usage:
-### For Angular velocity
-#### Requirement :
+## For Angular velocity
+#### Requirements :
 - Ubuntu 22.04 or newer
 - Ros2 humble
 - Turtlesim package (which will be installed default in ros2 installation)
@@ -43,3 +43,22 @@ Step 2: To run the python script in which the linear velocity and radius are inp
         python3 angular_velocity.py <linear_velocity(speed)> <radius>
 
         Eg. python3 angular_velocity.py 1 0.5
+
+## For Distance to goal
+
+#### Requirement :
+- Python3
+
+### For Euclidean distance
+
+        python3 euclidean_distance.py <x1> <y1> <x2> <y2>
+
+        Eg. python3 euclidean_distance.py 1 2 2 3
+        # which means (1,2) as (x1,y1) and (2,3) as (x2,y2)
+
+### For manhattan distance
+
+    python3 manhattan_distance.py <x1> <y1> <x2> <y2>
+
+    Eg. python3 manhattan_distance.py 1 2 2 3
+    # which means (1,2) as (x1,y1) and (2,3) as (x2,y2)
