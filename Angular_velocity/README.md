@@ -9,6 +9,8 @@ Example :
 
  * Since angular velocity includes both the information about  Magnitude and Direction, it is a **Vector Quantity**
 
+
+
 ## The Basics
 
 Angular velocity measures the rate at which an angle changes over time.
@@ -17,7 +19,7 @@ Simply put, it’s how quickly an object rotates.
 
 ### The Formula:
 
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/7d1ad76f-f7ac-4b1c-9cde-b4aaac0f93a2)
 
 This formula means:
 
@@ -29,7 +31,7 @@ This formula means:
 
 Angular velocity isn’t just about rotation – it also relates to how fast something is moving in a straight line. If you know how fast something is spinning (angular velocity) and the distance from the center (radius), you can figure out how fast a point on the edge is moving (linear velocity):
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/acb415e9-9dd2-4e03-a5a2-521465a88c1e)
 
 From the above picture we can get to know that, 
 * Linear velocity (v) = Angular velocity (ω) * Radius (r) 
@@ -72,6 +74,8 @@ If you’re into robotics, understanding angular velocity is crucial. It helps y
 ## Wrap-Up
 
 Angular velocity might sound complicated, but it’s really just a way to describe how fast something is spinning. Whether you’re working on a robot or just curious about how things move, understanding angular velocity is a handy skill to have.
+
+![image](https://github.com/user-attachments/assets/daa0314d-9a88-4ab8-b949-c79dc20f9781)
 
 ---
 
