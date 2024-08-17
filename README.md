@@ -27,4 +27,19 @@ Thanks in advance,
 **Deivaprakash K**   
 *Junior Robotics Software Engineer*
 
+# Repo Usage:
+### For Angular velocity
+#### Requirement :
+- Ubuntu 22.04 or newer
+- Ros2 humble
+- Turtlesim package (which will be installed default in ros2 installation)
 
+Step 1: To run the turtlesim node
+
+       ros2 run turtlesim turtlesim_node
+
+Step 2: To run the python script in which the linear velocity and radius are inputs from the command line arguments.
+  
+        python3 angular_velocity.py <linear_velocity(speed)> <radius>
+
+        Eg. python3 angular_velocity.py 1 0.5
