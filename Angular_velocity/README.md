@@ -2,10 +2,10 @@
 
 ## What is Angular Velocity?
 
-Angular velocity is all about how fast something is spinning around a particular point or axis.
+Angular velocity is all about how fast something is spinning (Rotating) around a particular point or axis.
 
 Example : 
- Imagine a wheel spinning on a bike. Angular velocity tells us how quickly that wheel is rotating and in what direction.
+ Imagine a wheel spinning on a bike. Angular velocity tells us how quickly (Magnitude) that wheel is rotating and in what direction(Direction).
 
  * Since angular velocity includes both the information about  Magnitude and Direction, it is a **Vector Quantity**
 
@@ -13,7 +13,7 @@ Example :
 
 ## The Basics
 
-Angular velocity measures the rate at which an angle changes over time.
+Angular velocity measures the rate at which an angle changes over time. [ delta(theta) / delta(time) ]
 
 Simply put, it’s how quickly an object rotates.
 
@@ -23,7 +23,7 @@ Simply put, it’s how quickly an object rotates.
 
 This formula means:
 
-- **ω** is the angular velocity (how fast the object is rotating)(in radians per second, rad/s).
+- **ω** is the angular velocity (how fast the object is rotating) (in radians per second, rad/s).
 - **Δθ** is the change in angle (how much the object has rotated).
 - **Δt** is the change in time (how long it took for the object to rotate).
 
@@ -49,7 +49,8 @@ This formula means:
 
 ## Why It’s Important
 
-Angular velocity is a key concept in many areas, especially in robotics, where it’s used to control the rotation of wheels, joints, and other moving parts. For instance, when a robot turns, angular velocity helps determine how fast each wheel should spin to make the turn smooth and accurate.
+Angular velocity is a key concept in many areas, 
+ - Especially in robotics, where it’s used to control the rotation of wheels, joints, and other moving parts. For instance, when a robot turns, angular velocity helps determine how fast each wheel should spin to make the turn smooth and accurate.
 
 
 
