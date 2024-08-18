@@ -19,14 +19,6 @@
 - **Grid Maps**
 - **Path Planning Algorithms**
 
-### Contributing
-
-If you have any suggestions for additional topics to include in this repository, please create an issue or fork this repository and submit a pull request (PR) with the added content.
-
-Thanks in advance,  
-**Deivaprakash K**   
-*Junior Robotics Software Engineer*
-
 # Repo Usage:
 ## For Angular velocity
 #### Requirements :
@@ -69,4 +61,14 @@ Step 2: To run the python script in which the linear velocity and radius are inp
 
         Eg.python3 angle_to_goal.py 1 2 2 3
         # which means (1,2) as (x_robot,y_robot) and (2,3) as (x_goal,y_goal)
+
+
+
+### Contributing
+
+If you have any suggestions for additional topics to include in this repository, please create an issue or fork this repository and submit a pull request (PR) with the added content.
+
+Thanks in advance,  
+**Deivaprakash K**   
+*Junior Robotics Software Engineer*
 
