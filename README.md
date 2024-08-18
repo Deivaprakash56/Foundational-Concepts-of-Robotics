@@ -62,3 +62,11 @@ Step 2: To run the python script in which the linear velocity and radius are inp
 
         Eg. python3 manhattan_distance.py 1 2 2 3
         # which means (1,2) as (x1,y1) and (2,3) as (x2,y2)
+
+## For Angle to Goal (ATG)
+
+        python3 angle_to_goal.py <x_robot> <y_robot> <x_goal> <y_goal>
+
+        Eg.python3 angle_to_goal.py 1 2 2 3
+        # which means (1,2) as (x_robot,y_robot) and (2,3) as (x_goal,y_goal)
+
