@@ -15,6 +15,11 @@
 - **Conversion of Euler Angles to Quaternions**
 - **Differential Drive**
 - **Sensor Fusion Algorithms**
+   - Complementary filter
+   - Extended Kalman filter
+   - Combination of Complemetary and EKF (Personal experiment)
+- **State space model** - Maths needed behind EKF
+- **Observation model** - Maths needed behind EKF
 - **Graph Theory**
 - **Grid Maps**
 - **Path Planning Algorithms**
